@@ -1,8 +1,6 @@
--Aarón Blanco
+👱Aarón Blanco
 
--GDAM, Cibersecurity and BigData.
+📗👨‍💻I'm studying multiplatforms aplication developer, with a cibersecurity and BigData module.
 
--Madrid
-
-
+📮Reach me on: aaronbm03@gmail.com
 
